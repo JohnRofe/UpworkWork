@@ -1,0 +1,38 @@
+Video of the task: https://www.loom.com/share/81e049d2381b46c3bdf537bc25d44a7d?sid=0b53f2ef-bc29-4a6d-8eb6-44d5277fe875
+
+URLs for scraping: https://lso.ca/public-resources/finding-a-lawyer-or-paralegal/directory-search/member?MemberNumber=P00000 to https://lso.ca/public-resources/finding-a-lawyer-or-paralegal/directory-search/member?MemberNumber=P20100
+
+P00000 to P20100
+
+Fields and cells to scrape into Excel:
+name
+mailingName
+lsoNumber
+status
+language01
+language02
+language03
+language04
+language05
+language06
+areasOfLaw01
+areasOfLaw02
+areasOfLaw03
+areasOfLaw04
+areasOfLaw05
+areasOfLaw06
+areasOfLaw07
+areasOfLaw08
+areasOfLaw09
+businessName
+businessAddress
+businessCity
+businessPostalCode
+phone
+fax
+emailAddress
+trusteeship
+currentPracticeRestrictions
+currentRegulatoryProceedings
+regulatoryHistory
+limitedScopeRetainer
